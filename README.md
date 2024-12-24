@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there, I'm Brahma Nanda Reddy! 👋
+# Hi there, I'm Brahmananda Reddy Sadhu! 👋
 
 ### 🚀 Software Test Engineer 
 I am passionate about building efficient automation testing frameworks and setting up continuous integration pipelines. I specialize in integrating different testing tools and CI/CD pipelines to ensure software quality and delivery.
